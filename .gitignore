@@ -1,0 +1,16 @@
+# Mac
+.DS_Store
+
+# Editor
+.vscode
+
+# Go
+dist
+terraform-provider-secret
+terraform-provider-secret.exe
+
+# Terraform Example
+.terraform.lock.hcl
+.terraform
+*.tfstate
+*.backup
